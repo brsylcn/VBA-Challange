@@ -1,4 +1,4 @@
-VBA CHALLANGE
+**VBA CHALLANGE**
 
 **Instructions**
 
@@ -24,7 +24,7 @@ e- The total stock volume of the stock.
 
 
 
-**CHALLENGES
+**CHALLENGES**
 
 1- Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume". The solution will look as follows:
 
