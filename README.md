@@ -1,6 +1,6 @@
 **VBA CHALLANGE**
 
-**Instructions**
+   **Instructions**
 
 
 a- Create a script that will loop through all the stocks for one year for each run and take the following information.
@@ -24,7 +24,7 @@ e- The total stock volume of the stock.
 
 
 
-**CHALLENGES**
+   **CHALLENGES**
 
 1- Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume". The solution will look as follows:
 
